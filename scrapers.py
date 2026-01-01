@@ -1,7 +1,10 @@
+from urllib.parse import quote
 import fandom
 from datetime import datetime
 from collections import defaultdict
 import re
+
+from tqdm import tqdm
 from util import fetch_infobox
 
 
@@ -99,3 +102,61 @@ def get_infobox_data(title):
             data["timeline_legends"] = value
 
     return data
+
+def parse_episodes(title, opt, episodes, skipped):
+    page = fandom.page(title)
+
+    real_title = title
+    if len(title) >= 9 and "(episode)" == title[-9:]:
+        real_title = title[:-9]
+    real_title = real_title.strip()
+
+    description = page.section("Official description")
+    if description is None:
+        page.section("Publisher's summary")
+    if description is None:
+        description = ""
+    else:
+        description = description.split("\n")[1:][0]
+
+    crawl = page.section("Opening crawl")
+    if crawl is None:
+        crawl = ""
+    else:
+        crawl = " ".join(crawl.split("\n")[2:])
+
+    infobox_data = get_infobox_data(title)
+    season = infobox_data["season"]
+    epnum = infobox_data["episode"]
+    date = infobox_data["timeline_canon"]
+    irl_date = infobox_data["air_date"]
+
+    # Detect failed attempts to parse
+    if (
+        type(season) != int
+        or type(epnum) != str
+        or type(date) != str
+        or type(irl_date) != str
+    ):
+        tqdm.write(
+            f"IMPROPER INFO - {title}: {season}:{type(season)}, {epnum}:{type(epnum)}, {date}:{type(date)}, {irl_date}:{type(irl_date)}"
+        )
+        tqdm.write(
+            f"IMPROPER INFO - {title}: {season}, {epnum}, {date}, {irl_date}"
+        )
+        skipped.append(title)
+        return
+
+    episodes.append(
+        {
+            "title": real_title,
+            "link": "https://"
+            + quote("starwars.fandom.com/wiki/{title.replace(' ', '_')}"),
+            "description": description,
+            "crawl": crawl,
+            "season": season,
+            "episode": epnum,
+            "date": date,
+            "irl_date": irl_date,
+        }
+    )
