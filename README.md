@@ -17,7 +17,7 @@ This is a list of all of the content that the program can parse as of `1/1/2026`
 - Andor
 
 ## JSON Format
-Here are some descriptions of the JSON format that the scraper will output. To further understand them I recommend poking the actual JSON output files.
+Here are some descriptions of the JSON format that the scraper will output. To further understand them I recommend poking the actual JSON output files. Optional 
 
 ### Episodes:
 ```json
@@ -25,11 +25,11 @@ Here are some descriptions of the JSON format that the scraper will output. To f
     "title": name of this episode
     "link": the url of this episode's Wookieepedia article
     "description": a short description
-    "crawl": the crawl of this episode (only exists if a crawl exists)
-    "season": the season (integer)
     "episode": the episode(s) of the entry (ex. "1" or "2-3")
     "date": the BBY/ABY time of this episode (ex. "12 BBY")
     "irl_date": an iso-formatted date string ("YYYY-MM-DD")
+    "crawl?": the crawl of this episode - only exists if a crawl exists
+    "season?": the season (integer) - doesn't exist on intentionally single-season shows
 }
 ```
 

@@ -103,6 +103,7 @@ def get_infobox_data(title):
 
     return data
 
+
 def parse_episodes(title, opt, episodes, skipped):
     page = fandom.page(title)
 
@@ -133,30 +134,29 @@ def parse_episodes(title, opt, episodes, skipped):
 
     # Detect failed attempts to parse
     if (
-        type(season) != int
+        (not season is None and type(season) != int)
         or type(epnum) != str
         or type(date) != str
         or type(irl_date) != str
     ):
-        tqdm.write(
-            f"IMPROPER INFO - {title}: {season}:{type(season)}, {epnum}:{type(epnum)}, {date}:{type(date)}, {irl_date}:{type(irl_date)}"
-        )
-        tqdm.write(
-            f"IMPROPER INFO - {title}: {season}, {epnum}, {date}, {irl_date}"
-        )
+        tqdm.write(f"IMPROPER INFO - {title}: {season}, {epnum}, {date}, {irl_date}")
         skipped.append(title)
         return
 
-    episodes.append(
-        {
-            "title": real_title,
-            "link": "https://"
-            + quote("starwars.fandom.com/wiki/{title.replace(' ', '_')}"),
-            "description": description,
-            "crawl": crawl,
-            "season": season,
-            "episode": epnum,
-            "date": date,
-            "irl_date": irl_date,
-        }
-    )
+    episode = {
+        "title": real_title,
+        "link": "https://"
+        + quote(f"starwars.fandom.com/wiki/{title.replace(' ', '_')}"),
+        "description": description,
+        "episode": epnum,
+        "date": date,
+        "irl_date": irl_date,
+    }
+
+    if crawl:
+        episode["crawl"] = crawl
+
+    if season:
+        episode["season"] = season
+
+    episodes.append(episode)
