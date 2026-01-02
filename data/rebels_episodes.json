@@ -1,10 +1,8 @@
 [
   {
     "title": "Star Wars Rebels: Spark of Rebellion",
-    "link": "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Spark_of_Rebellion",
+    "link": "https://starwars.fandom.com/wiki/Star_Wars_Rebels%3A_Spark_of_Rebellion",
     "description": "It is a dark time. The Jedi are no more, and the Empire rules the galaxy with an iron fist -- bringing tyranny to the Outer Rim world of Lothal. Their ominous presence is a cloud over the planet, squashing any hope of freedom or a better life, especially for 14-year-old orphan Ezra Bridger. But the young con artist soon finds that destiny has other plans for him, as he encounters a small band of rebels who dare to strike back against the Empire.",
-    "crawl": "",
-    "season": 0,
     "episode": "1–2",
     "date": "5 BBY",
     "irl_date": "2014-10-06"
@@ -13,8 +11,6 @@
     "title": "Droids in Distress",
     "link": "https://starwars.fandom.com/wiki/Droids_in_Distress",
     "description": "Low on food and fuel, the Ghost crew agrees to steal an Imperial weapons shipment for crime lord Cikatro Vizago. During the mission, they encounter a familiar droid duo -- and find that the weapons in question are more deadly than they'd realized.",
-    "crawl": "",
-    "season": 0,
     "episode": "3",
     "date": "5 BBY",
     "irl_date": "2014-10-13"
@@ -23,8 +19,6 @@
     "title": "Fighter Flight",
     "link": "https://starwars.fandom.com/wiki/Fighter_Flight",
     "description": "A simple supply run for hard-to-find meiloorun fruit takes a dangerous turn, as Zeb and Ezra draw the attention of Imperials...and steal a TIE fighter.",
-    "crawl": "",
-    "season": 0,
     "episode": "4",
     "date": "5 BBY",
     "irl_date": "2014-10-20"
@@ -33,8 +27,6 @@
     "title": "Rise of the Old Masters",
     "link": "https://starwars.fandom.com/wiki/Rise_of_the_Old_Masters",
     "description": "Kanan continues to train Ezra in the ways of the Force, but both become frustrated with each other and their new roles. Meanwhile, an underground transmission reveals that a Jedi Master, long thought dead, is alive and in Imperial custody.",
-    "crawl": "",
-    "season": 0,
     "episode": "5",
     "date": "5 BBY",
     "irl_date": "2014-10-27"
@@ -43,8 +35,6 @@
     "title": "Breaking Ranks",
     "link": "https://starwars.fandom.com/wiki/Breaking_Ranks",
     "description": "Looking to uncover an Imperial decoder, Ezra goes undercover as a cadet at the Lothal Imperial Academy.",
-    "crawl": "",
-    "season": 0,
     "episode": "6",
     "date": "5 BBY",
     "irl_date": "2014-11-03"
@@ -53,18 +43,14 @@
     "title": "Out of Darkness",
     "link": "https://starwars.fandom.com/wiki/Out_of_Darkness",
     "description": "Their relationship strained over trust issues, Hera and Sabine team up for a supply run but find an unexpected danger waiting.",
-    "crawl": "",
-    "season": 0,
     "episode": "7",
     "date": "5 BBY",
     "irl_date": "2014-11-10"
   },
   {
-    "title": "Empire Day ",
-    "link": "https://starwars.fandom.com/wiki/Empire_Day_(episode)",
+    "title": "Empire Day",
+    "link": "https://starwars.fandom.com/wiki/Empire_Day_%28episode%29",
     "description": "Ezra struggles with unanswered questions from the past on Empire Day -- his birthday -- while the Ghost crew uncovers key Imperial intel.",
-    "crawl": "",
-    "season": 0,
     "episode": "8",
     "date": "4 BBY",
     "irl_date": "2014-11-17"
@@ -73,8 +59,6 @@
     "title": "Gathering Forces",
     "link": "https://starwars.fandom.com/wiki/Gathering_Forces",
     "description": "The Inquisitor continues his pursuit of the Ghost crew, while Ezra looks to make a connection with the Force.",
-    "crawl": "",
-    "season": 0,
     "episode": "9",
     "date": "4 BBY",
     "irl_date": "2014-11-24"
@@ -83,18 +67,14 @@
     "title": "Path of the Jedi",
     "link": "https://starwars.fandom.com/wiki/Path_of_the_Jedi",
     "description": "Kanan and Ezra venture into a hidden Jedi Temple, where they both face new trials -- and encounter one of the greatest Jedi the galaxy has ever known.",
-    "crawl": "",
-    "season": 0,
     "episode": "10",
     "date": "4 BBY",
     "irl_date": "2015-01-05"
   },
   {
-    "title": "Idiot's Array ",
-    "link": "https://starwars.fandom.com/wiki/Idiot's_Array_(episode)",
+    "title": "Idiot's Array",
+    "link": "https://starwars.fandom.com/wiki/Idiot%27s_Array_%28episode%29",
     "description": "After Zeb bets — and loses — Chopper in a game of sabacc, the Ghost crew find themselves caught in the middle of a smooth-talking smuggler's scheme.",
-    "crawl": "",
-    "season": 0,
     "episode": "11",
     "date": "4 BBY",
     "irl_date": "2015-01-19"
@@ -103,8 +83,6 @@
     "title": "Vision of Hope",
     "link": "https://starwars.fandom.com/wiki/Vision_of_Hope",
     "description": "After experiencing a vision of the future, Ezra leads the Ghost crew into a meeting with a potential ally.",
-    "crawl": "",
-    "season": 0,
     "episode": "12",
     "date": "4 BBY",
     "irl_date": "2015-02-02"
@@ -113,8 +91,6 @@
     "title": "Call to Action",
     "link": "https://starwars.fandom.com/wiki/Call_to_Action",
     "description": "The Ghost crew, having proved effective in their strikes against the Empire, win the attention of a powerful new enemy.",
-    "crawl": "",
-    "season": 0,
     "episode": "13",
     "date": "4 BBY",
     "irl_date": "2015-02-09"
@@ -123,8 +99,6 @@
     "title": "Rebel Resolve",
     "link": "https://starwars.fandom.com/wiki/Rebel_Resolve",
     "description": "With Kanan in Imperial custody, Ezra makes a risky deal and sets a plan in motion to save his Master.",
-    "crawl": "",
-    "season": 0,
     "episode": "14",
     "date": "4 BBY",
     "irl_date": "2015-02-23"
@@ -133,530 +107,476 @@
     "title": "Fire Across the Galaxy",
     "link": "https://starwars.fandom.com/wiki/Fire_Across_the_Galaxy",
     "description": "The Ghost crew makes a final desperate attempt to rescue Kanan from the Empire. Who will fall?",
-    "crawl": "",
-    "season": 0,
     "episode": "15",
     "date": "4 BBY",
     "irl_date": "2015-03-03"
   },
   {
     "title": "Star Wars Rebels: The Siege of Lothal",
-    "link": "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_The_Siege_of_Lothal",
+    "link": "https://starwars.fandom.com/wiki/Star_Wars_Rebels%3A_The_Siege_of_Lothal",
     "description": "The Inquisitor is dead. The Ghost crew has connected with other rebel cells. And a new ally named Ahsoka Tano has emerged. Despite these successes and developments, the fight against the Empire takes a deadly turn, as the evil Sith Lord Darth Vader comes to Lothal.",
-    "crawl": "",
-    "season": 1,
     "episode": "1–2",
     "date": "4 BBY",
-    "irl_date": "2015-06-20"
+    "irl_date": "2015-06-20",
+    "season": 1
   },
   {
     "title": "The Lost Commanders",
     "link": "https://starwars.fandom.com/wiki/The_Lost_Commanders",
     "description": "Ahsoka Tano sends the Ghost crew to Seelos in search of an old friend -- one whose leadership and strategy skills could help the fledgling rebellion. But will this legendary commander be willing to join the fight?",
-    "crawl": "",
-    "season": 1,
     "episode": "3",
     "date": "4 BBY",
-    "irl_date": "2015-10-14"
+    "irl_date": "2015-10-14",
+    "season": 1
   },
   {
     "title": "Relics of the Old Republic",
     "link": "https://starwars.fandom.com/wiki/Relics_of_the_Old_Republic",
     "description": "While Kanan continues to struggle with trust issues, the other rebels begin to form friendships with the old clones. And when Agent Kallus arrives, all must join together to battle the Imperials.",
-    "crawl": "",
-    "season": 1,
     "episode": "4",
     "date": "4 BBY",
-    "irl_date": "2015-10-21"
+    "irl_date": "2015-10-21",
+    "season": 1
   },
   {
     "title": "Always Two There Are",
     "link": "https://starwars.fandom.com/wiki/Always_Two_There_Are",
     "description": "Thanks to Rex's intel, Ezra, Sabine, Zeb, and Chopper head out to an abandoned Republic medical station with the hopes of finding much needed supplies. When they encounter new enemies, however, the stakes become much higher.",
-    "crawl": "",
-    "season": 1,
     "episode": "5",
     "date": "4 BBY",
-    "irl_date": "2015-10-28"
+    "irl_date": "2015-10-28",
+    "season": 1
   },
   {
     "title": "Brothers of the Broken Horn",
     "link": "https://starwars.fandom.com/wiki/Brothers_of_the_Broken_Horn",
     "description": "When Ezra answers a distress signal from the Broken Horn, the young Jedi finds someone unexpected waiting: the legendary pirate Hondo Ohnaka. But is he friend or foe?",
-    "crawl": "",
-    "season": 1,
     "episode": "6",
     "date": "4 BBY",
-    "irl_date": "2015-11-04"
+    "irl_date": "2015-11-04",
+    "season": 1
   },
   {
     "title": "Wings of the Master",
     "link": "https://starwars.fandom.com/wiki/Wings_of_the_Master",
     "description": "With the rebels in desperate need of a ship with heavy weaponry, Hera seeks out a master engineer who has built a powerful new starfighter prototype.",
-    "crawl": "",
-    "season": 1,
     "episode": "7",
     "date": "4 BBY",
-    "irl_date": "2015-11-11"
+    "irl_date": "2015-11-11",
+    "season": 1
   },
   {
     "title": "Blood Sisters",
     "link": "https://starwars.fandom.com/wiki/Blood_Sisters",
     "description": "While on mission to rendezvous with a courier holding secret information, Sabine encounters someone from her past: a bounty hunter named Ketsu. But is she friend or foe?",
-    "crawl": "",
-    "season": 1,
     "episode": "8",
     "date": "4 BBY",
-    "irl_date": "2015-11-18"
+    "irl_date": "2015-11-18",
+    "season": 1
   },
   {
     "title": "Stealth Strike",
     "link": "https://starwars.fandom.com/wiki/Stealth_Strike",
     "description": "When the Empire uses a powerful new weapon to capture Ezra and Commander Sato, Rex and Kanan must put their differences aside to save their friends.",
-    "crawl": "",
-    "season": 1,
     "episode": "9",
     "date": "4 BBY",
-    "irl_date": "2015-11-25"
+    "irl_date": "2015-11-25",
+    "season": 1
   },
   {
     "title": "The Future of the Force",
     "link": "https://starwars.fandom.com/wiki/The_Future_of_the_Force",
     "description": "After the Empire's Inquisitors begin targeting select babies for abduction, Ahsoka Tano and the Ghost crew investigate. What they find is unsettling, and it all leads to a deadly confrontation with the children's fates hanging in the balance.",
-    "crawl": "",
-    "season": 1,
     "episode": "10",
     "date": "3 BBY",
-    "irl_date": "2015-12-02"
+    "irl_date": "2015-12-02",
+    "season": 1
   },
   {
-    "title": "Legacy ",
-    "link": "https://starwars.fandom.com/wiki/Legacy_(episode)",
+    "title": "Legacy",
+    "link": "https://starwars.fandom.com/wiki/Legacy_%28episode%29",
     "description": "After seeing his parents in a strange vision, Ezra believes they may still be alive. He heads back to Lothal for answers, while the Empire comes to Garel hoping to crush the rebellion.",
-    "crawl": "",
-    "season": 1,
     "episode": "11",
     "date": "3 BBY",
-    "irl_date": "2015-12-09"
+    "irl_date": "2015-12-09",
+    "season": 1
   },
   {
     "title": "A Princess on Lothal",
     "link": "https://starwars.fandom.com/wiki/A_Princess_on_Lothal",
     "description": "While Ezra grapples with the news about his parents, the rebels make plans with Senator Bail Organa to secure three much-needed cruisers. Leading the mission is an agent hand-picked by the Senator: his daughter, Leia.",
-    "crawl": "",
-    "season": 1,
     "episode": "12",
     "date": "3 BBY",
-    "irl_date": "2016-01-20"
+    "irl_date": "2016-01-20",
+    "season": 1
   },
   {
     "title": "The Protector of Concord Dawn",
     "link": "https://starwars.fandom.com/wiki/The_Protector_of_Concord_Dawn",
     "description": "Looking to secure a new hyperspace route to Lothal, the rebels head to the Mandalorian-controlled Concord Dawn to negotiate safe passage for their fleet. The warrior Protectors of the system prove to be less than welcoming, however, and it's up to Kanan and Sabine to turn this group into friends... or enemies.",
-    "crawl": "",
-    "season": 1,
     "episode": "13",
     "date": "3 BBY",
-    "irl_date": "2016-01-27"
+    "irl_date": "2016-01-27",
+    "season": 1
   },
   {
     "title": "Legends of the Lasat",
     "link": "https://starwars.fandom.com/wiki/Legends_of_the_Lasat",
     "description": "Thanks to intel from the space pirate Hondo, the Ghost crew rescue two Lasat from Imperial clutches. These survivors believe Zeb is the key to a prophecy that will lead to a new home for their kind—but Zeb, conflicted and ashamed of his failure to save Lasan, has little faith.",
-    "crawl": "",
-    "season": 1,
     "episode": "14",
     "date": "3 BBY",
-    "irl_date": "2016-02-03"
+    "irl_date": "2016-02-03",
+    "season": 1
   },
   {
     "title": "The Call",
     "link": "https://starwars.fandom.com/wiki/The_Call",
     "description": "Low on fuel and power in deep space, the Ghost crew encounters massive, mysterious creatures whose lives are threatened by a mining operation.",
-    "crawl": "",
-    "season": 1,
     "episode": "15",
     "date": "3 BBY",
-    "irl_date": "2016-02-10"
+    "irl_date": "2016-02-10",
+    "season": 1
   },
   {
     "title": "Homecoming",
     "link": "https://starwars.fandom.com/wiki/Homecoming",
     "description": "The Ghost crew joins forces with Cham Syndulla, father of Hera and Clone Wars legend. But will his thirst for revenge—and fractured relationship with his daughter—cost the rebels a victory?",
-    "crawl": "",
-    "season": 1,
     "episode": "16",
     "date": "3 BBY",
-    "irl_date": "2016-02-17"
+    "irl_date": "2016-02-17",
+    "season": 1
   },
   {
     "title": "The Honorable Ones",
     "link": "https://starwars.fandom.com/wiki/The_Honorable_Ones",
     "description": "Zeb and Agent Kallus find themselves stranded on an icy moon of Geonosis after a failed Imperial ambush of the rebels. Bitter enemies, they must put aside their differences and work together in order to survive.",
-    "crawl": "",
-    "season": 1,
     "episode": "17",
     "date": "3 BBY",
-    "irl_date": "2016-02-24"
+    "irl_date": "2016-02-24",
+    "season": 1
   },
   {
     "title": "Shroud of Darkness",
     "link": "https://starwars.fandom.com/wiki/Shroud_of_Darkness",
     "description": "Kanan, Ezra, and Ahsoka return to the Jedi Temple on Lothal, seeking to learn how the Inquisitors continually track them. Each has a different experience, and nothing will ever be the same.",
-    "crawl": "",
-    "season": 1,
     "episode": "18",
     "date": "3 BBY",
-    "irl_date": "2016-03-02"
+    "irl_date": "2016-03-02",
+    "season": 1
   },
   {
     "title": "The Forgotten Droid",
     "link": "https://starwars.fandom.com/wiki/The_Forgotten_Droid",
     "description": "When Chopper steals a replacement for his original leg, he separates from the Ghost crew and finds himself stranded on an Imperial ship. The grumpy astromech meets an inventory droid in service of the Empire, but will this new acquaintance become friend or foe?",
-    "crawl": "",
-    "season": 1,
     "episode": "19",
     "date": "3 BBY",
-    "irl_date": "2016-03-16"
+    "irl_date": "2016-03-16",
+    "season": 1
   },
   {
     "title": "The Mystery of Chopper Base",
     "link": "https://starwars.fandom.com/wiki/The_Mystery_of_Chopper_Base",
     "description": "The rebels finally locate a potential site for a secret base, but find their new home is not as isolated as originally believed...",
-    "crawl": "",
-    "season": 1,
     "episode": "20",
     "date": "3 BBY",
-    "irl_date": "2016-03-23"
+    "irl_date": "2016-03-23",
+    "season": 1
   },
   {
     "title": "Twilight of the Apprentice",
     "link": "https://starwars.fandom.com/wiki/Twilight_of_the_Apprentice",
     "description": "Ezra, Kanan, and Ahsoka arrive at Malachor, a seemingly dead world and home to an ancient Sith Temple, but they are not alone. Paths cross, destinies change, and fates are fulfilled.",
-    "crawl": "",
-    "season": 1,
     "episode": "21–22",
     "date": "3 BBY",
-    "irl_date": "2016-03-30"
+    "irl_date": "2016-03-30",
+    "season": 1
   },
   {
     "title": "Star Wars Rebels: Steps Into Shadow",
-    "link": "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Steps_Into_Shadow",
+    "link": "https://starwars.fandom.com/wiki/Star_Wars_Rebels%3A_Steps_Into_Shadow",
     "description": "Ezra, having grown in power, leads a mission to break the crew's old friend Hondo Ohnaka out of prison. Meanwhile, Grand Admiral Thrawn -- a master Imperial strategist -- has vowed to dismantle and destroy the growing rebellion.",
-    "crawl": "",
-    "season": 2,
     "episode": "1–2",
     "date": "2 BBY",
-    "irl_date": "2016-09-24"
+    "irl_date": "2016-09-24",
+    "season": 2
   },
   {
     "title": "The Holocrons of Fate",
     "link": "https://starwars.fandom.com/wiki/The_Holocrons_of_Fate",
     "description": "Maul returns to complete his dangerous plan, and the Ghost crew is caught in the middle.",
-    "crawl": "",
-    "season": 2,
     "episode": "3",
     "date": "2 BBY",
-    "irl_date": "2016-10-01"
+    "irl_date": "2016-10-01",
+    "season": 2
   },
   {
     "title": "The Antilles Extraction",
     "link": "https://starwars.fandom.com/wiki/The_Antilles_Extraction",
     "description": "With the rebellion in desperate need of pilots, Sabine goes undercover as an Imperial cadet to recruit defectors -- including the confident and gifted Wedge Antilles.",
-    "crawl": "",
-    "season": 2,
     "episode": "4",
     "date": "2 BBY",
-    "irl_date": "2016-10-08"
+    "irl_date": "2016-10-08",
+    "season": 2
   },
   {
     "title": "Hera's Heroes",
-    "link": "https://starwars.fandom.com/wiki/Hera's_Heroes",
+    "link": "https://starwars.fandom.com/wiki/Hera%27s_Heroes",
     "description": "When the Empire occupies Hera's home, she decides to personally recover a family heirloom. But a new Imperial commander named Grand Admiral Thrawn is waiting.",
-    "crawl": "",
-    "season": 2,
     "episode": "5",
     "date": "2 BBY",
-    "irl_date": "2016-10-15"
+    "irl_date": "2016-10-15",
+    "season": 2
   },
   {
     "title": "The Last Battle",
     "link": "https://starwars.fandom.com/wiki/The_Last_Battle",
     "description": "In the search for arms and artillery, Captain Rex brings the rebels to an old abandoned base from the Clone Wars. They quickly find that they're not alone, however, and must once again face enemies from the past.",
-    "crawl": "",
-    "season": 2,
     "episode": "6",
     "date": "2 BBY",
-    "irl_date": "2016-10-22"
+    "irl_date": "2016-10-22",
+    "season": 2
   },
   {
     "title": "Imperial Supercommandos",
     "link": "https://starwars.fandom.com/wiki/Imperial_Supercommandos",
     "description": "When the rebels lose contact with Concord Dawn, Sabine, Ezra, Chopper, and Mandalorian prisoner Fenn Rau investigate. They find an unexpected, deadly new threat waiting.",
-    "crawl": "",
-    "season": 2,
     "episode": "7",
     "date": "2 BBY",
-    "irl_date": "2016-11-05"
+    "irl_date": "2016-11-05",
+    "season": 2
   },
   {
-    "title": "Iron Squadron ",
-    "link": "https://starwars.fandom.com/wiki/Iron_Squadron_(episode)",
+    "title": "Iron Squadron",
+    "link": "https://starwars.fandom.com/wiki/Iron_Squadron_%28episode%29",
     "description": "The Ghost crew encounter three young rebels, while Thrawn plots a trap for his enemies.",
-    "crawl": "",
-    "season": 2,
     "episode": "8",
     "date": "2 BBY",
-    "irl_date": "2016-11-19"
+    "irl_date": "2016-11-19",
+    "season": 2
   },
   {
     "title": "The Wynkahthu Job",
     "link": "https://starwars.fandom.com/wiki/The_Wynkahthu_Job",
     "description": "The Ghost crew teams with Hondo and Azmorigan for a weapons score.",
-    "crawl": "",
-    "season": 2,
     "episode": "9",
     "date": "2 BBY",
-    "irl_date": "2016-11-26"
+    "irl_date": "2016-11-26",
+    "season": 2
   },
   {
     "title": "An Inside Man",
     "link": "https://starwars.fandom.com/wiki/An_Inside_Man",
     "description": "Kanan and Ezra infiltrate an Imperial factory on Lothal, making shocking discoveries, while Grand Admiral Thrawn continues his plans to crush the growing rebellion.",
-    "crawl": "",
-    "season": 2,
     "episode": "10",
     "date": "2 BBY",
-    "irl_date": "2016-12-03"
+    "irl_date": "2016-12-03",
+    "season": 2
   },
   {
     "title": "Visions and Voices",
     "link": "https://starwars.fandom.com/wiki/Visions_and_Voices",
     "description": "Maul returns, looking to finally unlock the secrets that he and Ezra desire.",
-    "crawl": "",
-    "season": 2,
     "episode": "11",
     "date": "2 BBY",
-    "irl_date": "2016-12-10"
+    "irl_date": "2016-12-10",
+    "season": 2
   },
   {
     "title": "Ghosts of Geonosis",
     "link": "https://starwars.fandom.com/wiki/Ghosts_of_Geonosis",
     "description": "After the legendary Saw Gerrera and his rebel squad go missing on Geonosis, the Ghost crew is sent in to investigate.",
-    "crawl": "",
-    "season": 2,
     "episode": "12–13",
     "date": "2 BBY",
-    "irl_date": "2017-01-07"
+    "irl_date": "2017-01-07",
+    "season": 2
   },
   {
-    "title": "Warhead ",
-    "link": "https://starwars.fandom.com/wiki/Warhead_(episode)",
+    "title": "Warhead",
+    "link": "https://starwars.fandom.com/wiki/Warhead_%28episode%29",
     "description": "A new droid arrives at the rebel base, but is not what it appears to be...",
-    "crawl": "",
-    "season": 2,
     "episode": "14",
     "date": "2 BBY",
-    "irl_date": "2017-01-14"
+    "irl_date": "2017-01-14",
+    "season": 2
   },
   {
     "title": "Trials of the Darksaber",
     "link": "https://starwars.fandom.com/wiki/Trials_of_the_Darksaber",
     "description": "Sabine begins training with the ancient Darksaber -- but in doing so, she must also face her past.",
-    "crawl": "",
-    "season": 2,
     "episode": "15",
     "date": "2 BBY",
-    "irl_date": "2017-01-21"
+    "irl_date": "2017-01-21",
+    "season": 2
   },
   {
     "title": "Legacy of Mandalore",
     "link": "https://starwars.fandom.com/wiki/Legacy_of_Mandalore",
     "description": "Sabine brings the Darksaber to her mother, hoping to recruit Clan Wren to the rebel cause and unite Mandalore.",
-    "crawl": "",
-    "season": 2,
     "episode": "16",
     "date": "2 BBY",
-    "irl_date": "2017-02-18"
+    "irl_date": "2017-02-18",
+    "season": 2
   },
   {
     "title": "Through Imperial Eyes",
     "link": "https://starwars.fandom.com/wiki/Through_Imperial_Eyes",
     "description": "As Thrawn's search for the Rebel spy intensifies, Ezra Bridger looks to extract Kallus and bring him to the Rebel base.",
-    "crawl": "",
-    "season": 2,
     "episode": "17",
     "date": "2 BBY",
-    "irl_date": "2017-02-25"
+    "irl_date": "2017-02-25",
+    "season": 2
   },
   {
     "title": "Secret Cargo",
     "link": "https://starwars.fandom.com/wiki/Secret_Cargo",
     "description": "The Ghost crew must escort Senator Mon Mothma, now wanted by the Empire, to a meeting that can change the galaxy.",
-    "crawl": "",
-    "season": 2,
     "episode": "18",
     "date": "2 BBY",
-    "irl_date": "2017-03-04"
+    "irl_date": "2017-03-04",
+    "season": 2
   },
   {
     "title": "Double Agent Droid",
     "link": "https://starwars.fandom.com/wiki/Double_Agent_Droid",
     "description": "When Chopper comes under Imperial control, the future of the entire Rebellion is at stake.",
-    "crawl": "",
-    "season": 2,
     "episode": "19",
     "date": "2 BBY",
-    "irl_date": "2017-03-11"
+    "irl_date": "2017-03-11",
+    "season": 2
   },
   {
-    "title": "Twin Suns ",
-    "link": "https://starwars.fandom.com/wiki/Twin_Suns_(episode)",
+    "title": "Twin Suns",
+    "link": "https://starwars.fandom.com/wiki/Twin_Suns_%28episode%29",
     "description": "Maul arrives on Tatooine seeking revenge against his nemesis, Obi-Wan Kenobi. Ezra, meanwhile, heads to the desert planet hoping to reach the Jedi Master first.",
-    "crawl": "",
-    "season": 2,
     "episode": "20",
     "date": "2 BBY",
-    "irl_date": "2017-03-18"
+    "irl_date": "2017-03-18",
+    "season": 2
   },
   {
     "title": "Zero Hour",
     "link": "https://starwars.fandom.com/wiki/Zero_Hour",
     "description": "While the rebels plot to attack the Imperial stronghold on Lothal, Grand Admiral Thrawn discovers the location of their secret base, leading to an epic clash.",
-    "crawl": "",
-    "season": 2,
     "episode": "21–22",
     "date": "2 BBY",
-    "irl_date": "2017-03-25"
+    "irl_date": "2017-03-25",
+    "season": 2
   },
   {
     "title": "Star Wars Rebels: Heroes of Mandalore",
-    "link": "https://starwars.fandom.com/wiki/Star_Wars_Rebels:_Heroes_of_Mandalore",
+    "link": "https://starwars.fandom.com/wiki/Star_Wars_Rebels%3A_Heroes_of_Mandalore",
     "description": "Sabine leads a mission to free her father from the Empire, but finds that a past mistake has been resurrected with deadly consequences.",
-    "crawl": "",
-    "season": 3,
     "episode": "1–2",
     "date": "1 BBY",
-    "irl_date": "2017-09-02"
+    "irl_date": "2017-09-02",
+    "season": 3
   },
   {
     "title": "In the Name of the Rebellion",
     "link": "https://starwars.fandom.com/wiki/In_the_Name_of_the_Rebellion",
     "description": "Saw Gerrera returns, determined to uncover an Imperial secret -- no matter the cost.",
-    "crawl": "",
-    "season": 3,
     "episode": "3–4",
     "date": "1 BBY",
-    "irl_date": "2017-10-23"
+    "irl_date": "2017-10-23",
+    "season": 3
   },
   {
     "title": "The Occupation",
     "link": "https://starwars.fandom.com/wiki/The_Occupation",
     "description": "Ezra and the Ghost crew return to Lothal, but find that the Imperial occupation has taken a much darker turn.",
-    "crawl": "",
-    "season": 3,
     "episode": "5",
     "date": "1 BBY",
-    "irl_date": "2017-10-30"
+    "irl_date": "2017-10-30",
+    "season": 3
   },
   {
     "title": "Flight of the Defender",
     "link": "https://starwars.fandom.com/wiki/Flight_of_the_Defender",
     "description": "The rebels look to secure intel on a deadly new Imperial fighter prototype.",
-    "crawl": "",
-    "season": 3,
     "episode": "6",
     "date": "1 BBY",
-    "irl_date": "2017-10-30"
+    "irl_date": "2017-10-30",
+    "season": 3
   },
   {
     "title": "Kindred",
     "link": "https://starwars.fandom.com/wiki/Kindred",
     "description": "The rebels look to move a stolen Imperial hyperdrive and flight data recorder off Lothal, while the mystery of the loth-wolves deepens.",
-    "crawl": "",
-    "season": 3,
     "episode": "7",
     "date": "1 BBY",
-    "irl_date": "2017-11-06"
+    "irl_date": "2017-11-06",
+    "season": 3
   },
   {
     "title": "Crawler Commandeers",
     "link": "https://starwars.fandom.com/wiki/Crawler_Commandeers",
     "description": "In need of a long-range transmitter, the rebels look to infiltrate one of the Empire's massive ore crawlers.",
-    "crawl": "",
-    "season": 3,
     "episode": "8",
     "date": "1 BBY",
-    "irl_date": "2017-11-06"
+    "irl_date": "2017-11-06",
+    "season": 3
   },
   {
     "title": "Rebel Assault",
     "link": "https://starwars.fandom.com/wiki/Rebel_Assault",
     "description": "Hera leads the rebel attack on the Imperial blockade at Lothal, with Grand Admiral Thrawn determined to stop her.",
-    "crawl": "",
-    "season": 3,
     "episode": "9",
     "date": "1 BBY",
-    "irl_date": "2017-11-13"
+    "irl_date": "2017-11-13",
+    "season": 3
   },
   {
     "title": "Jedi Night",
     "link": "https://starwars.fandom.com/wiki/Jedi_Night",
     "description": "The rebels look to rescue Hera from the clutches of Governor Pryce and Grand Admiral Thrawn.",
-    "crawl": "",
-    "season": 3,
     "episode": "10",
     "date": "1 BBY",
-    "irl_date": "2018-02-19"
+    "irl_date": "2018-02-19",
+    "season": 3
   },
   {
     "title": "DUME",
     "link": "https://starwars.fandom.com/wiki/DUME",
     "description": "Following the loss of Kanan, the Ghost crew looks for direction and answers.",
-    "crawl": "",
-    "season": 3,
     "episode": "11",
     "date": "1 BBY",
-    "irl_date": "2018-02-19"
+    "irl_date": "2018-02-19",
+    "season": 3
   },
   {
     "title": "Wolves and a Door",
     "link": "https://starwars.fandom.com/wiki/Wolves_and_a_Door",
     "description": "Ezra and Sabine go to the Jedi Temple on Lothal...and discover that the Empire has reached it first.",
-    "crawl": "",
-    "season": 3,
     "episode": "12",
     "date": "1 BBY",
-    "irl_date": "2018-02-26"
+    "irl_date": "2018-02-26",
+    "season": 3
   },
   {
     "title": "A World Between Worlds",
     "link": "https://starwars.fandom.com/wiki/A_World_Between_Worlds",
     "description": "Now inside the Jedi Temple portal, Ezra finds himself in a place like no other.",
-    "crawl": "",
-    "season": 3,
     "episode": "13",
     "date": "1 BBY",
-    "irl_date": "2018-02-26"
+    "irl_date": "2018-02-26",
+    "season": 3
   },
   {
     "title": "A Fool's Hope",
-    "link": "https://starwars.fandom.com/wiki/A_Fool's_Hope",
+    "link": "https://starwars.fandom.com/wiki/A_Fool%27s_Hope",
     "description": "The Ghost hatches a plan to free Lothal, though a traitor may be in their midst.",
-    "crawl": "",
-    "season": 3,
     "episode": "14",
     "date": "1 BBY",
-    "irl_date": "2018-03-05"
+    "irl_date": "2018-03-05",
+    "season": 3
   },
   {
     "title": "Family Reunion – and Farewell",
-    "link": "https://starwars.fandom.com/wiki/Family_Reunion_–_and_Farewell",
+    "link": "https://starwars.fandom.com/wiki/Family_Reunion_%E2%80%93_and_Farewell",
     "description": "Ezra and the Ghost crew look to complete their ultimate mission: to liberate Lothal from the clutches of the Empire.",
-    "crawl": "",
-    "season": 3,
     "episode": "15",
     "date": "1 BBY",
-    "irl_date": "2018-03-05"
+    "irl_date": "2018-03-05",
+    "season": 3
   }
 ]

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "The Path of Fear",
+    "link": "https://starwars.fandom.com/wiki/The_Path_of_Fear",
+    "description": "Young Morgan Elsbeth seeks revenge after losing everything.",
+    "episode": "1",
+    "date": "20 BBY",
+    "irl_date": "2024-05-04"
+  },
+  {
+    "title": "The Path of Anger",
+    "link": "https://starwars.fandom.com/wiki/The_Path_of_Anger",
+    "description": "Morgan is approached by a potentially powerful ally.",
+    "episode": "2",
+    "date": "Between 9 BBY",
+    "irl_date": "2024-05-04"
+  },
+  {
+    "title": "The Path of Hate",
+    "link": "https://starwars.fandom.com/wiki/The_Path_of_Hate",
+    "description": "Offered the chance to stand trial for her crimes, Morgan instead seeks her destiny.",
+    "episode": "3",
+    "date": "Between 5 ABY",
+    "irl_date": "2024-05-04"
+  },
+  {
+    "title": "Devoted",
+    "link": "https://starwars.fandom.com/wiki/Devoted",
+    "description": "Former Jedi Barriss Offee is recruited by the Empire.",
+    "episode": "4",
+    "date": "19 BBY",
+    "irl_date": "2024-05-04"
+  },
+  {
+    "title": "Realization",
+    "link": "https://starwars.fandom.com/wiki/Realization",
+    "description": "On a mission to hunt a fugitive, complications change Barriss forever.",
+    "episode": "5",
+    "date": "c. 19 BBY",
+    "irl_date": "2024-05-04"
+  },
+  {
+    "title": "The Way Out",
+    "link": "https://starwars.fandom.com/wiki/The_Way_Out",
+    "description": "A shadow from Barriss' past catches up with her.",
+    "episode": "6",
+    "date": "Between 9 BBY",
+    "irl_date": "2024-05-04"
+  }
+]

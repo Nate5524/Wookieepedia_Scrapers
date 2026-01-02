@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Chapter 1: The Mandalorian",
+    "link": "https://starwars.fandom.com/wiki/Chapter_1%3A_The_Mandalorian",
+    "description": "A Mandalorian bounty hunter tracks a target for a well-paying client.",
+    "episode": "1",
+    "date": "9 ABY",
+    "irl_date": "2019-11-12"
+  },
+  {
+    "title": "Chapter 2: The Child",
+    "link": "https://starwars.fandom.com/wiki/Chapter_2%3A_The_Child",
+    "description": "Target in-hand, The Mandalorian must now contend with scavengers.",
+    "episode": "2",
+    "date": "9 ABY",
+    "irl_date": "2019-11-15"
+  },
+  {
+    "title": "Chapter 3: The Sin",
+    "link": "https://starwars.fandom.com/wiki/Chapter_3%3A_The_Sin",
+    "description": "The battered Mandalorian returns to his client for reward.",
+    "episode": "3",
+    "date": "9 ABY",
+    "irl_date": "2019-11-22"
+  },
+  {
+    "title": "Chapter 4: Sanctuary",
+    "link": "https://starwars.fandom.com/wiki/Chapter_4%3A_Sanctuary",
+    "description": "The Mandalorian teams up with an ex-soldier to protect a village from raiders.",
+    "episode": "4",
+    "date": "9 ABY",
+    "irl_date": "2019-11-29"
+  },
+  {
+    "title": "Chapter 5: The Gunslinger",
+    "link": "https://starwars.fandom.com/wiki/Chapter_5%3A_The_Gunslinger",
+    "description": "The Mandalorian helps a rookie bounty hunter who is in over his head.",
+    "episode": "5",
+    "date": "9 ABY",
+    "irl_date": "2019-12-06"
+  },
+  {
+    "title": "Chapter 6: The Prisoner",
+    "link": "https://starwars.fandom.com/wiki/Chapter_6%3A_The_Prisoner",
+    "description": "The Mandalorian is part of a crew of mercinaries springing a convict from a prison ship.",
+    "episode": "6",
+    "date": "9 ABY",
+    "irl_date": "2019-12-13"
+  },
+  {
+    "title": "Chapter 7: The Reckoning",
+    "link": "https://starwars.fandom.com/wiki/Chapter_7%3A_The_Reckoning",
+    "description": "An old rival extends an invitation for The Mandalorian to make peace.",
+    "episode": "7",
+    "date": "9 ABY",
+    "irl_date": "2019-12-18"
+  },
+  {
+    "title": "Chapter 8: Redemption",
+    "link": "https://starwars.fandom.com/wiki/Chapter_8%3A_Redemption",
+    "description": "The Mandalorian comes face-to-face with an unexpected enemy.",
+    "episode": "8",
+    "date": "9 ABY",
+    "irl_date": "2019-12-27"
+  },
+  {
+    "title": "Chapter 9: The Marshal",
+    "link": "https://starwars.fandom.com/wiki/Chapter_9%3A_The_Marshal",
+    "description": "The Mandalorian is drawn to the Outer Rim in search of others of his kind.",
+    "episode": "1",
+    "date": "9 ABY",
+    "irl_date": "2020-10-30",
+    "season": 1
+  },
+  {
+    "title": "Chapter 10: The Passenger",
+    "link": "https://starwars.fandom.com/wiki/Chapter_10%3A_The_Passenger",
+    "description": "The Mandalorian must ferry a passenger with precious cargo on a risky journey.",
+    "episode": "2",
+    "date": "9 ABY",
+    "irl_date": "2020-11-06",
+    "season": 1
+  },
+  {
+    "title": "Chapter 11: The Heiress",
+    "link": "https://starwars.fandom.com/wiki/Chapter_11%3A_The_Heiress",
+    "description": "The Mandalorian braves high seas and meets unexpected allies.",
+    "episode": "3",
+    "date": "9 ABY",
+    "irl_date": "2020-11-13",
+    "season": 1
+  },
+  {
+    "title": "Chapter 12: The Siege",
+    "link": "https://starwars.fandom.com/wiki/Chapter_12%3A_The_Siege",
+    "description": "The Mandalorian rejoins old allies for a new mission.",
+    "episode": "4",
+    "date": "9 ABY",
+    "irl_date": "2020-11-20",
+    "season": 1
+  },
+  {
+    "title": "Chapter 13: The Jedi",
+    "link": "https://starwars.fandom.com/wiki/Chapter_13%3A_The_Jedi",
+    "description": "The Mandalorian journeys to a world ruled by a cruel magistrate who has made a powerful enemy.",
+    "episode": "5",
+    "date": "9 ABY",
+    "irl_date": "2020-11-27",
+    "season": 1
+  },
+  {
+    "title": "Chapter 14: The Tragedy",
+    "link": "https://starwars.fandom.com/wiki/Chapter_14%3A_The_Tragedy",
+    "description": "The Mandalorian and Child travel to an ancient site.",
+    "episode": "6",
+    "date": "9 ABY",
+    "irl_date": "2020-12-04",
+    "season": 1
+  },
+  {
+    "title": "Chapter 15: The Believer",
+    "link": "https://starwars.fandom.com/wiki/Chapter_15%3A_The_Believer",
+    "description": "To move against the Empire, the Mandalorian needs the help of an old enemy.",
+    "episode": "7",
+    "date": "9 ABY",
+    "irl_date": "2020-12-11",
+    "season": 1
+  },
+  {
+    "title": "Chapter 16: The Rescue",
+    "link": "https://starwars.fandom.com/wiki/Chapter_16%3A_The_Rescue",
+    "description": "The Mandalorian and his allies attempt a daring rescue.",
+    "episode": "8",
+    "date": "9 ABY",
+    "irl_date": "2020-12-18",
+    "season": 1
+  },
+  {
+    "title": "Chapter 17: The Apostate",
+    "link": "https://starwars.fandom.com/wiki/Chapter_17%3A_The_Apostate",
+    "description": "The Mandalorian begins an important journey.",
+    "episode": "1",
+    "date": "9 ABY",
+    "irl_date": "2023-03-01",
+    "season": 2
+  },
+  {
+    "title": "Chapter 18: The Mines of Mandalore",
+    "link": "https://starwars.fandom.com/wiki/Chapter_18%3A_The_Mines_of_Mandalore",
+    "description": "The Mandalorian and Grogu explore the ruins of a destroyed planet.",
+    "episode": "2",
+    "date": "9 ABY",
+    "irl_date": "2023-03-08",
+    "season": 2
+  },
+  {
+    "title": "Chapter 19: The Convert",
+    "link": "https://starwars.fandom.com/wiki/Chapter_19%3A_The_Convert",
+    "description": "On Coruscant, former Imperials find amnesty in the New Republic.",
+    "episode": "3",
+    "date": "9 ABY",
+    "irl_date": "2023-03-15",
+    "season": 2
+  },
+  {
+    "title": "Chapter 20: The Foundling",
+    "link": "https://starwars.fandom.com/wiki/Chapter_20%3A_The_Foundling",
+    "description": "Din Djarin returns to the hidden Mandalorian covert.",
+    "episode": "4",
+    "date": "9 ABY",
+    "irl_date": "2023-03-22",
+    "season": 2
+  },
+  {
+    "title": "Chapter 21: The Pirate",
+    "link": "https://starwars.fandom.com/wiki/Chapter_21%3A_The_Pirate",
+    "description": "The people of Nevarro need protection from rampant pirate attacks.",
+    "episode": "5",
+    "date": "9 ABY",
+    "irl_date": "2023-03-29",
+    "season": 2
+  },
+  {
+    "title": "Chapter 22: Guns for Hire",
+    "link": "https://starwars.fandom.com/wiki/Chapter_22%3A_Guns_for_Hire",
+    "description": "The Mandalorian visits an opulent world.",
+    "episode": "6",
+    "date": "9 ABY",
+    "irl_date": "2023-04-05",
+    "season": 2
+  },
+  {
+    "title": "Chapter 23: The Spies",
+    "link": "https://starwars.fandom.com/wiki/Chapter_23%3A_The_Spies",
+    "description": "Survivors come out of hiding.",
+    "episode": "7",
+    "date": "9 ABY",
+    "irl_date": "2023-04-12",
+    "season": 2
+  },
+  {
+    "title": "Chapter 24: The Return",
+    "link": "https://starwars.fandom.com/wiki/Chapter_24%3A_The_Return",
+    "description": "The Mandalorian and his allies confront their enemies.",
+    "episode": "8",
+    "date": "9 ABY",
+    "irl_date": "2023-04-19",
+    "season": 2
+  }
+]

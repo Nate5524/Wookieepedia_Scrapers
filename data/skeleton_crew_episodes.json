@@ -1,0 +1,67 @@
+[
+  {
+    "title": "This Could Be a Real Adventure",
+    "link": "https://starwars.fandom.com/wiki/This_Could_Be_a_Real_Adventure",
+    "description": "Kids from an ordinary planet discover a surprising secret.",
+    "episode": "1",
+    "date": "c. 9 ABY",
+    "irl_date": "2024-12-02",
+    "crawl": "Since the fall of the EMPIRE, the NEW REPUBLIC has maintained order. And yet, remote hyperspace routes are increasingly plagued by piracy. These PIRATES boldly brand their armored hulls as a sign to all ships. Surrender or die…"
+  },
+  {
+    "title": "Way, Way Out Past the Barrier",
+    "link": "https://starwars.fandom.com/wiki/Way%2C_Way_Out_Past_the_Barrier",
+    "description": "A surprising first stop marks the beginning of an unexpected journey.",
+    "episode": "2",
+    "date": "c. 9 ABY",
+    "irl_date": "2024-12-02"
+  },
+  {
+    "title": "Very Interesting, As an Astrogation Problem",
+    "link": "https://starwars.fandom.com/wiki/Very_Interesting%2C_As_an_Astrogation_Problem",
+    "description": "A mysterious stranger offers to help our heroes.",
+    "episode": "3",
+    "date": "c. 9 ABY",
+    "irl_date": "2024-12-10"
+  },
+  {
+    "title": "Can't Say I Remember No At Attin",
+    "link": "https://starwars.fandom.com/wiki/Can%27t_Say_I_Remember_No_At_Attin",
+    "description": "Our heroes face a surprise in a familiar setting.",
+    "episode": "4",
+    "date": "c. 9 ABY",
+    "irl_date": "2024-12-17"
+  },
+  {
+    "title": "You Have a Lot to Learn About Pirates",
+    "link": "https://starwars.fandom.com/wiki/You_Have_a_Lot_to_Learn_About_Pirates",
+    "description": "A seemingly pleasant world will test our heroes like no other.",
+    "episode": "5",
+    "date": "c. 9 ABY",
+    "irl_date": "2024-12-24"
+  },
+  {
+    "title": "Zero Friends Again",
+    "link": "https://starwars.fandom.com/wiki/Zero_Friends_Again",
+    "description": "Relationships fray under the pressures of a difficult journey.",
+    "episode": "6",
+    "date": "c. 9 ABY",
+    "irl_date": "2024-12-31"
+  },
+  {
+    "title": "We're Gonna Be In So Much Trouble",
+    "link": "https://starwars.fandom.com/wiki/We%27re_Gonna_Be_In_So_Much_Trouble",
+    "description": "Our heroes have never felt further from home.",
+    "episode": "7",
+    "date": "c. 9 ABY",
+    "irl_date": "2025-01-07"
+  },
+  {
+    "title": "The Real Good Guys",
+    "link": "https://starwars.fandom.com/wiki/The_Real_Good_Guys",
+    "description": "A journey filled with adventure comes to a surprising end.",
+    "episode": "8",
+    "date": "c. 9 ABY",
+    "irl_date": "2025-01-14"
+  }
+]

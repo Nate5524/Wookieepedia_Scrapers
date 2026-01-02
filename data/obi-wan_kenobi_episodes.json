@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Part I",
+    "link": "https://starwars.fandom.com/wiki/Part_I",
+    "description": "",
+    "episode": "1",
+    "date": "9 BBY",
+    "irl_date": "2022-05-26"
+  },
+  {
+    "title": "Part II",
+    "link": "https://starwars.fandom.com/wiki/Part_II",
+    "description": "",
+    "episode": "2",
+    "date": "9 BBY",
+    "irl_date": "2022-05-26"
+  },
+  {
+    "title": "Part III",
+    "link": "https://starwars.fandom.com/wiki/Part_III",
+    "description": "",
+    "episode": "3",
+    "date": "9 BBY",
+    "irl_date": "2022-06-01"
+  },
+  {
+    "title": "Part IV",
+    "link": "https://starwars.fandom.com/wiki/Part_IV",
+    "description": "",
+    "episode": "4",
+    "date": "9 BBY",
+    "irl_date": "2022-06-08"
+  },
+  {
+    "title": "Part V",
+    "link": "https://starwars.fandom.com/wiki/Part_V",
+    "description": "",
+    "episode": "5",
+    "date": "9 BBY",
+    "irl_date": "2022-06-15"
+  },
+  {
+    "title": "Part VI",
+    "link": "https://starwars.fandom.com/wiki/Part_VI",
+    "description": "",
+    "episode": "6",
+    "date": "9 BBY",
+    "irl_date": "2022-06-22"
+  }
+]

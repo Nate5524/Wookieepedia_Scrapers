@@ -12,9 +12,20 @@ To run this program, simply run the [`runner.py`](./runner.py) script. All confi
 
 ## Supported Content
 This is a list of all of the content that the program can parse as of `1/1/2026`.
-- Star Wars: The Clone Wars
-- Star Wars Rebels
+- The Acolyte
+- Ahsoka
 - Andor
+- The Bad Batch
+- The Book of Boba Fett
+- The Clone Wars
+- The Mandalorian
+- Obi-Wan Kenobi
+- Rebels
+- Resistance
+- Skeleton Crew
+- Tales of the Empire
+- Tales of the Jedi
+- Tales of the Underworld
 
 ## JSON Format
 Here are some descriptions of the JSON format that the scraper will output. To further understand them I recommend poking the actual JSON output files. Optional 

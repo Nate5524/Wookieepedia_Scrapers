@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Life and Death",
+    "link": "https://starwars.fandom.com/wiki/Life_and_Death",
+    "description": "A child goes through a rite of passage with unexpected results.",
+    "episode": "1",
+    "date": "Between 36 BBY",
+    "irl_date": "2022-10-26"
+  },
+  {
+    "title": "Justice",
+    "link": "https://starwars.fandom.com/wiki/Justice_%28episode%29",
+    "description": "Two Jedi are dispatched to resolve a hostage situation on a distant planet.",
+    "episode": "2",
+    "date": "Between 68 BBY",
+    "irl_date": "2022-10-26"
+  },
+  {
+    "title": "Choices",
+    "link": "https://starwars.fandom.com/wiki/Choices",
+    "description": "Jedi Knights investigate the mysterious death of one of their own.",
+    "episode": "3",
+    "date": "Between c. 50 BBY",
+    "irl_date": "2022-10-26"
+  },
+  {
+    "title": "The Sith Lord",
+    "link": "https://starwars.fandom.com/wiki/The_Sith_Lord",
+    "description": "A Jedi master makes a troubling discovery.",
+    "episode": "4",
+    "date": "32 BBY",
+    "irl_date": "2022-10-26"
+  },
+  {
+    "title": "Practice Makes Perfect",
+    "link": "https://starwars.fandom.com/wiki/Practice_Makes_Perfect_%28episode%29",
+    "description": "A Jedi Padawan is given a seemingly impossible exercise.",
+    "episode": "5",
+    "date": "Between c. 21 BBY",
+    "irl_date": "2022-10-26"
+  },
+  {
+    "title": "Resolve",
+    "link": "https://starwars.fandom.com/wiki/Resolve_%28episode%29",
+    "description": "A former Jedi is faced with the truth that they cannot be something they are not.",
+    "episode": "6",
+    "date": "19 BBY",
+    "irl_date": "2022-10-26"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Part One: Master and Apprentice",
+    "link": "https://starwars.fandom.com/wiki/Part_One%3A_Master_and_Apprentice",
+    "description": "A valuable prisoner escapes New Republic custody; search for answers reunites two old friends.",
+    "episode": "1",
+    "date": "9 ABY",
+    "irl_date": "2023-08-22",
+    "crawl": "The EVIL GALACTIC EMPIRE has fallen and a NEW REPUBLIC has risen to take its place. However, sinister agents are already at work to undermine the fragile peace. A plot is underway to find the lost IMPERIAL GRAND ADMIRAL THRAWN and bring him out of exile. Once presumed dead, rumors are spreading of Thrawn's return which would galvanize the IMPERIAL REMNANTS and start another war. Former Jedi Knight AHSOKA TANO captured one of Thrawn's allies and learned of a secret map which is vital to the enemy’s plan. Ahsoka now searches for the map as her prisoner, MORGAN ELSBETH, is transported to the New Republic for trial…",
+    "season": 9
+  },
+  {
+    "title": "Part Two: Toil and Trouble",
+    "link": "https://starwars.fandom.com/wiki/Part_Two%3A_Toil_and_Trouble",
+    "description": "Ahsoka and General Hera Syndulla travel to New Republic shipyards and make an unexpected discovery.",
+    "episode": "2",
+    "date": "9 ABY",
+    "irl_date": "2023-08-22",
+    "season": 9
+  },
+  {
+    "title": "Part Three: Time to Fly",
+    "link": "https://starwars.fandom.com/wiki/Part_Three%3A_Time_to_Fly",
+    "description": "Hera tangles with New Republic politics while Ahsoka and Sabine Wren voyage to a distant planet.",
+    "episode": "3",
+    "date": "9 ABY",
+    "irl_date": "2023-08-29",
+    "season": 9
+  },
+  {
+    "title": "Part Four: Fallen Jedi",
+    "link": "https://starwars.fandom.com/wiki/Part_Four%3A_Fallen_Jedi",
+    "description": "Hera risks her career to help her friends while Ahsoka and Sabine confront enemies.",
+    "episode": "4",
+    "date": "9 ABY",
+    "irl_date": "2023-09-05",
+    "season": 9
+  },
+  {
+    "title": "Part Five: Shadow Warrior",
+    "link": "https://starwars.fandom.com/wiki/Part_Five%3A_Shadow_Warrior",
+    "description": "Ahsoka confronts her past, while Hera and her allies undertake a rescue mission.",
+    "episode": "5",
+    "date": "22 BBY",
+    "irl_date": "2023-09-12",
+    "season": 9
+  },
+  {
+    "title": "Part Six: Far, Far Away",
+    "link": "https://starwars.fandom.com/wiki/Part_Six%3A_Far%2C_Far_Away",
+    "description": "The search for Grand Admiral Thrawn reaches beyond the limits of the galaxy.",
+    "episode": "6",
+    "date": "9 ABY",
+    "irl_date": "2023-09-19",
+    "season": 9
+  },
+  {
+    "title": "Part Seven: Dreams and Madness",
+    "link": "https://starwars.fandom.com/wiki/Part_Seven%3A_Dreams_and_Madness",
+    "description": "Hera must answer to the New Republic while far, far away, a reunion takes place.",
+    "episode": "7",
+    "date": "9 ABY",
+    "irl_date": "2023-09-26",
+    "season": 9
+  },
+  {
+    "title": "Part Eight: The Jedi, the Witch, and the Warlord",
+    "link": "https://starwars.fandom.com/wiki/Part_Eight%3A_The_Jedi%2C_the_Witch%2C_and_the_Warlord",
+    "description": "The heroes race to prevent Grand Admiral Thrawn's escape.",
+    "episode": "8",
+    "date": "9 ABY",
+    "irl_date": "2023-10-03",
+    "season": 9
+  }
+]

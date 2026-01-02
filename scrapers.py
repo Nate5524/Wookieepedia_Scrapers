@@ -1,17 +1,17 @@
 from urllib.parse import quote
+from bs4 import BeautifulSoup
 import fandom
 from datetime import datetime
 from collections import defaultdict
 import re
 
 from tqdm import tqdm
-from util import fetch_infobox
 
 
 fandom.set_wiki("starwars")
 
 
-def get_infobox_data(title):
+def get_infobox_data(html):
     """
     Fetches and parses the Infobox from a Wookieepedia episode page.
     Returns: a dict with the cleaned & parsed information.
@@ -28,7 +28,8 @@ def get_infobox_data(title):
     }
     If any of these aren't found, there will be no placeholder in the dict.
     """
-    infobox = fetch_infobox(title)
+    soup = BeautifulSoup(html, "html.parser")
+    infobox = soup.find("aside", class_="portable-infobox")
 
     data = defaultdict(lambda: None)
     for pair in infobox.find_all(
@@ -85,7 +86,7 @@ def get_infobox_data(title):
             if len(dates) > 0:
                 value = " ".join(
                     dates[len(dates) // 2]
-                )  # TODO: can this be picking be done intelligently?
+                )  # can this be picking be done intelligently instead of just taking the median?
                 data["air_date"] = (
                     datetime.strptime(value, "%B %d %Y").date().isoformat()
                 )
@@ -96,7 +97,8 @@ def get_infobox_data(title):
         elif "runtime" in key:
             data["runtime"] = value
         elif "timeline" in key and "legends" not in key:
-            value = value[: re.search(r"(BBY)|(ABY)", value).end()]
+            # value = value[: re.search(r"(BBY)|(ABY)", value).end()]
+            value = re.match(r"\d+ (BBY|ABY)", value).string
             data["timeline_canon"] = value
         elif "timeline" in key and "legends" in key:
             data["timeline_legends"] = value
@@ -104,7 +106,7 @@ def get_infobox_data(title):
     return data
 
 
-def parse_episodes(title, opt, episodes, skipped):
+def parse_episodes(title, episodes, skipped):
     page = fandom.page(title)
 
     real_title = title
@@ -126,7 +128,7 @@ def parse_episodes(title, opt, episodes, skipped):
     else:
         crawl = " ".join(crawl.split("\n")[2:])
 
-    infobox_data = get_infobox_data(title)
+    infobox_data = get_infobox_data(page.html)
     season = infobox_data["season"]
     epnum = infobox_data["episode"]
     date = infobox_data["timeline_canon"]
@@ -139,7 +141,7 @@ def parse_episodes(title, opt, episodes, skipped):
         or type(date) != str
         or type(irl_date) != str
     ):
-        tqdm.write(f"IMPROPER INFO - {title}: {season}, {epnum}, {date}, {irl_date}")
+        tqdm.write(f"  IMPROPER INFO - {title}: {season}, {epnum}, {date}, {irl_date}")
         skipped.append(title)
         return
 

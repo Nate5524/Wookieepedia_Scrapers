@@ -1,0 +1,50 @@
+[
+  {
+    "title": "A Way Forward",
+    "link": "https://starwars.fandom.com/wiki/A_Way_Forward",
+    "description": "",
+    "episode": "1",
+    "date": "19 BBY",
+    "irl_date": "2025-05-04"
+  },
+  {
+    "title": "Friends",
+    "link": "https://starwars.fandom.com/wiki/Friends",
+    "description": "",
+    "episode": "2",
+    "date": "c. 18 BBY",
+    "irl_date": "2025-05-04"
+  },
+  {
+    "title": "One Warrior to Another",
+    "link": "https://starwars.fandom.com/wiki/One_Warrior_to_Another",
+    "description": "",
+    "episode": "3",
+    "date": "c. 18 BBY",
+    "irl_date": "2025-05-04"
+  },
+  {
+    "title": "The Good Life",
+    "link": "https://starwars.fandom.com/wiki/The_Good_Life",
+    "description": "",
+    "episode": "4",
+    "date": "Between c. 62 BBY",
+    "irl_date": "2025-05-04"
+  },
+  {
+    "title": "A Good Turn",
+    "link": "https://starwars.fandom.com/wiki/A_Good_Turn",
+    "description": "",
+    "episode": "5",
+    "date": "Between c. 62 BBY",
+    "irl_date": "2025-05-04"
+  },
+  {
+    "title": "One Good Deed",
+    "link": "https://starwars.fandom.com/wiki/One_Good_Deed",
+    "description": "",
+    "episode": "6",
+    "date": "Between c. 62 BBY",
+    "irl_date": "2025-05-04"
+  }
+]

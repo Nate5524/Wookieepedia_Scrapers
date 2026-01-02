@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Chapter 1: Stranger in a Strange Land",
+    "link": "https://starwars.fandom.com/wiki/Chapter_1%3A_Stranger_in_a_Strange_Land",
+    "description": "Boba Fett holds court.",
+    "episode": "1",
+    "date": "c. 22 BBY",
+    "irl_date": "2021-12-29"
+  },
+  {
+    "title": "Chapter 2: The Tribes of Tatooine",
+    "link": "https://starwars.fandom.com/wiki/Chapter_2%3A_The_Tribes_of_Tatooine",
+    "description": "Boba Fett faces new challengers on Tatooine.",
+    "episode": "2",
+    "date": "5 ABY",
+    "irl_date": "2022-01-05"
+  },
+  {
+    "title": "Chapter 3: The Streets of Mos Espa",
+    "link": "https://starwars.fandom.com/wiki/Chapter_3%3A_The_Streets_of_Mos_Espa",
+    "description": "Boba Fett must deal with two very different threats.",
+    "episode": "3",
+    "date": "9 ABY",
+    "irl_date": "2022-01-12"
+  },
+  {
+    "title": "Chapter 4: The Gathering Storm",
+    "link": "https://starwars.fandom.com/wiki/Chapter_4%3A_The_Gathering_Storm",
+    "description": "Boba Fett partners with Fennec Shand.",
+    "episode": "4",
+    "date": "9 ABY",
+    "irl_date": "2022-01-19"
+  },
+  {
+    "title": "Chapter 5: Return of the Mandalorian",
+    "link": "https://starwars.fandom.com/wiki/Chapter_5%3A_Return_of_the_Mandalorian",
+    "description": "An unexpected ally emerges.",
+    "episode": "5",
+    "date": "9 ABY",
+    "irl_date": "2022-01-26"
+  },
+  {
+    "title": "Chapter 6: From the Desert Comes a Stranger",
+    "link": "https://starwars.fandom.com/wiki/Chapter_6%3A_From_the_Desert_Comes_a_Stranger",
+    "description": "Mysteries are explored and Boba Fett learns information.",
+    "episode": "6",
+    "date": "9 ABY",
+    "irl_date": "2022-02-02"
+  },
+  {
+    "title": "Chapter 7: In the Name of Honor",
+    "link": "https://starwars.fandom.com/wiki/Chapter_7%3A_In_the_Name_of_Honor",
+    "description": "Boba Fett and Fennec Shand face an escalating conflict.",
+    "episode": "7",
+    "date": "9 ABY",
+    "irl_date": "2022-02-09"
+  }
+]

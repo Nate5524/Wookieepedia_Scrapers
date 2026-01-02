@@ -1,0 +1,324 @@
+[
+  {
+    "title": "The Recruit",
+    "link": "https://starwars.fandom.com/wiki/The_Recruit",
+    "description": "X-wing pilot Kazuda Xiono is recruited for the Resistance, but finds himself in over his head when Poe Dameron assigns him to a remote fueling station to spy on the First Order. Then, after Kaz boasts about being the best pilot around, he is forced to compete in a dangerous sky race.",
+    "episode": "1–2",
+    "date": "34 ABY",
+    "irl_date": "2018-10-07"
+  },
+  {
+    "title": "The Triple Dark",
+    "link": "https://starwars.fandom.com/wiki/The_Triple_Dark",
+    "description": "Kaz and BB-8 uncover information on an imminent pirate attack and must find a way to stop it.",
+    "episode": "3",
+    "date": "34 ABY",
+    "irl_date": "2018-10-14"
+  },
+  {
+    "title": "Fuel for the Fire",
+    "link": "https://starwars.fandom.com/wiki/Fuel_for_the_Fire",
+    "description": "Kaz befriends a sky racer named Rucklin who pressures him to take some rare and dangerous hyperfuel hidden in Yeager's office.",
+    "episode": "4",
+    "date": "34 ABY",
+    "irl_date": "2018-10-21"
+  },
+  {
+    "title": "The High Tower",
+    "link": "https://starwars.fandom.com/wiki/The_High_Tower",
+    "description": "The First Order arrives at the platform for mysterious reasons and Kaz and BB-8 are determined to sneak into the tower to find out what they want.",
+    "episode": "5",
+    "date": "34 ABY",
+    "irl_date": "2018-10-28"
+  },
+  {
+    "title": "The Children from Tehar",
+    "link": "https://starwars.fandom.com/wiki/The_Children_from_Tehar",
+    "description": "In need of credits to fix a broken part, Kaz looks to recover two missing children and claim a sizable bounty.",
+    "episode": "6",
+    "date": "34 ABY",
+    "irl_date": "2018-11-04"
+  },
+  {
+    "title": "Signal from Sector Six",
+    "link": "https://starwars.fandom.com/wiki/Signal_from_Sector_Six",
+    "description": "Kaz and Poe Dameron investigate a distress signal, and find something much bigger than they anticipated.",
+    "episode": "7",
+    "date": "34 ABY",
+    "irl_date": "2018-11-11"
+  },
+  {
+    "title": "Synara's Score",
+    "link": "https://starwars.fandom.com/wiki/Synara%27s_Score",
+    "description": "With his spy in place, pirate leader Kragan Gorr seizes the opportunity to strike at the Colossus.",
+    "episode": "8",
+    "date": "34 ABY",
+    "irl_date": "2018-11-18"
+  },
+  {
+    "title": "The Platform Classic",
+    "link": "https://starwars.fandom.com/wiki/The_Platform_Classic",
+    "description": "When hotshot racer Marcus Speedstar arrives on the Colossus, Yeager is confronted by a painful past he's kept hidden.",
+    "episode": "9",
+    "date": "34 ABY",
+    "irl_date": "2018-11-25"
+  },
+  {
+    "title": "Secrets and Holograms",
+    "link": "https://starwars.fandom.com/wiki/Secrets_and_Holograms",
+    "description": "While Captain Doza meets with the First Order, Torra, Kaz, and BB-8 sneak around on their own secret mission.",
+    "episode": "10",
+    "date": "34 ABY",
+    "irl_date": "2018-12-02"
+  },
+  {
+    "title": "Station Theta Black",
+    "link": "https://starwars.fandom.com/wiki/Station_Theta_Black_%28episode%29",
+    "description": "What begins as a simple recon mission of an abandoned First Order base becomes much more complicated…once Captain Phasma arrives.",
+    "episode": "11",
+    "date": "34 ABY",
+    "irl_date": "2018-12-09"
+  },
+  {
+    "title": "Bibo",
+    "link": "https://starwars.fandom.com/wiki/Bibo_%28episode%29",
+    "description": "When Neeku adopts a strange sea creature as a pet, he gets way more than he bargained for. Meanwhile, Kaz and Synara encounter something monstrous in the Castilon oceans…",
+    "episode": "12",
+    "date": "34 ABY",
+    "irl_date": "2019-01-13"
+  },
+  {
+    "title": "Dangerous Business",
+    "link": "https://starwars.fandom.com/wiki/Dangerous_Business",
+    "description": "In exchange for parts, Kaz agrees to watch Flix and Orka's shop. But things take a deadly turn when a mysterious customer arrives.",
+    "episode": "13",
+    "date": "34 ABY",
+    "irl_date": "2019-01-20"
+  },
+  {
+    "title": "The Doza Dilemma",
+    "link": "https://starwars.fandom.com/wiki/The_Doza_Dilemma",
+    "description": "When the pirates launch an unsettling mission on the Colossus, Synara's loyalty and allegiances are put to the test.",
+    "episode": "14",
+    "date": "34 ABY",
+    "irl_date": "2019-01-27"
+  },
+  {
+    "title": "The First Order Occupation",
+    "link": "https://starwars.fandom.com/wiki/The_First_Order_Occupation",
+    "description": "As the First Order tightens its grip on the Colossus, the pressure mounts for Kaz and Synara.",
+    "episode": "15",
+    "date": "34 ABY",
+    "irl_date": "2019-02-03"
+  },
+  {
+    "title": "The New Trooper",
+    "link": "https://starwars.fandom.com/wiki/The_New_Trooper",
+    "description": "After Kel and Eila, fugitives from the First Order, have a run-in with a stormtrooper, Kaz seizes the opportunity to uncover more details about the growing movement.",
+    "episode": "16",
+    "date": "34 ABY",
+    "irl_date": "2019-02-10"
+  },
+  {
+    "title": "The Core Problem",
+    "link": "https://starwars.fandom.com/wiki/The_Core_Problem",
+    "description": "Poe and Kaz investigate a location in the Unknown Regions that might be central to the First Order's plot.",
+    "episode": "17",
+    "date": "34 ABY",
+    "irl_date": "2019-02-17"
+  },
+  {
+    "title": "The Disappeared",
+    "link": "https://starwars.fandom.com/wiki/The_Disappeared",
+    "description": "As the First Order cracks down on dissent and issues unsettling new demands, Kaz and Torra take action.",
+    "episode": "18",
+    "date": "34 ABY",
+    "irl_date": "2019-02-24"
+  },
+  {
+    "title": "Descent",
+    "link": "https://starwars.fandom.com/wiki/Descent_%28episode%29",
+    "description": "Now on the radar of the First Order, Kaz and Yeager must act quickly to save the Colossus — and their friends.",
+    "episode": "19",
+    "date": "34 ABY",
+    "irl_date": "2019-03-03"
+  },
+  {
+    "title": "No Escape: Part 1",
+    "link": "https://starwars.fandom.com/wiki/No_Escape%3A_Part_1",
+    "description": "Kaz hatches a plan to rescue his friends, while the First Order's quest for power takes a dark turn.",
+    "episode": "20",
+    "date": "34 ABY",
+    "irl_date": "2019-03-10"
+  },
+  {
+    "title": "No Escape: Part 2",
+    "link": "https://starwars.fandom.com/wiki/No_Escape%3A_Part_2",
+    "description": "Following the destruction of Hosnian Prime and other systems, Kaz and Yeager lead the forces of the Colossus into battle with the First Order.",
+    "episode": "21",
+    "date": "34 ABY",
+    "irl_date": "2019-03-17"
+  },
+  {
+    "title": "Into the Unknown",
+    "link": "https://starwars.fandom.com/wiki/Into_the_Unknown",
+    "description": "Following their battle with the First Order, Kaz and his friends hope to reach the Resistance base on D'Qar. But the Colossus has suffered damage, and there may be other threats lurking in the shadows...",
+    "episode": "1",
+    "date": "34 ABY",
+    "irl_date": "2019-10-06",
+    "season": 1
+  },
+  {
+    "title": "A Quick Salvage Run",
+    "link": "https://starwars.fandom.com/wiki/A_Quick_Salvage_Run",
+    "description": "The Colossus, low on hyperfuel, arrives at D'Qar only to find the aftermath of a deadly battle — but Kaz looks to seize an opportunity.",
+    "episode": "2",
+    "date": "34 ABY",
+    "irl_date": "2019-10-13",
+    "season": 1
+  },
+  {
+    "title": "Live Fire",
+    "link": "https://starwars.fandom.com/wiki/Live_Fire",
+    "description": "With the Aces in need of combat training, Yeager becomes their new squad leader and Kaz joins the team. Meanwhile, Tam begins her own pilot exercises with the First Order.",
+    "episode": "3",
+    "date": "34 ABY",
+    "irl_date": "2019-10-20",
+    "season": 1
+  },
+  {
+    "title": "Hunt on Celsor 3",
+    "link": "https://starwars.fandom.com/wiki/Hunt_on_Celsor_3",
+    "description": "As the Colossus runs dangerously low on food, Kaz and Torra look to catch the massive jakoosk creature in a last-ditch attempt to feed the ship's citizenry. ",
+    "episode": "4",
+    "date": "34 ABY",
+    "irl_date": "2019-10-27",
+    "season": 1
+  },
+  {
+    "title": "The Engineer",
+    "link": "https://starwars.fandom.com/wiki/The_Engineer",
+    "description": "Kaz and Synara investigate a distress signal and find a survivor of a First Order attack. But is she really who she claims to be? ",
+    "episode": "5",
+    "date": "34 ABY",
+    "irl_date": "2019-11-03",
+    "season": 1
+  },
+  {
+    "title": "From Beneath",
+    "link": "https://starwars.fandom.com/wiki/From_Beneath",
+    "description": "Kaz and his friends head to Flix's homeworld in search of fuel. But has deep-core drilling awoken a fabled creature?",
+    "episode": "6",
+    "date": "34 ABY",
+    "irl_date": "2019-11-10",
+    "season": 1
+  },
+  {
+    "title": "The Relic Raiders",
+    "link": "https://starwars.fandom.com/wiki/The_Relic_Raiders",
+    "description": "On a simple supply run, Kaz and his friends discover something ancient and unexpected. ",
+    "episode": "7",
+    "date": "34 ABY",
+    "irl_date": "2019-11-17",
+    "season": 1
+  },
+  {
+    "title": "Rendezvous Point",
+    "link": "https://starwars.fandom.com/wiki/Rendezvous_Point_%28episode%29",
+    "description": "The First Order captures a Resistance pilot with a connection to Captain Doza and Torra.",
+    "episode": "8",
+    "date": "34 ABY",
+    "irl_date": "2019-11-24",
+    "season": 1
+  },
+  {
+    "title": "The Voxx Vortex 5000",
+    "link": "https://starwars.fandom.com/wiki/The_Voxx_Vortex_5000",
+    "description": "The Colossus visits a casino for some racing that will hopefully bring a big payday to the platform. But the owner's ships may not be so easy to defeat. ",
+    "episode": "9",
+    "date": "34 ABY",
+    "irl_date": "2019-12-01",
+    "season": 1
+  },
+  {
+    "title": "Kaz's Curse",
+    "link": "https://starwars.fandom.com/wiki/Kaz%27s_Curse",
+    "description": "After a pirate places a curse on Kaz, matters become worse when the Colossus enters Guavian Death Space.",
+    "episode": "10",
+    "date": "34 ABY",
+    "irl_date": "2019-12-08",
+    "season": 1
+  },
+  {
+    "title": "Station to Station",
+    "link": "https://starwars.fandom.com/wiki/Station_to_Station",
+    "description": "When Tam is sent to a First Order refueling station, some unexpected guests test the limits of her loyalty. ",
+    "episode": "11",
+    "date": "34 ABY",
+    "irl_date": "2019-12-15",
+    "season": 1
+  },
+  {
+    "title": "The Missing Agent",
+    "link": "https://starwars.fandom.com/wiki/The_Missing_Agent",
+    "description": "Kaz leads a strike team to investigate a mysterious Resistance distress signal.",
+    "episode": "12",
+    "date": "34 ABY",
+    "irl_date": "2019-12-22",
+    "season": 1
+  },
+  {
+    "title": "Breakout",
+    "link": "https://starwars.fandom.com/wiki/Breakout",
+    "description": "Kaz and Norath hatch a plan to rescue their friends, but bounty hunter Ax Tagrin looks to capture them once and for all.",
+    "episode": "13",
+    "date": "34 ABY",
+    "irl_date": "2019-12-29",
+    "season": 1
+  },
+  {
+    "title": "The Mutiny",
+    "link": "https://starwars.fandom.com/wiki/The_Mutiny",
+    "description": "Pirate leader Kragan Gorr hatches a plot to take over the Colossus – with super battle droids from the Clone Wars!",
+    "episode": "14",
+    "date": "34 ABY",
+    "irl_date": "2020-01-05",
+    "season": 1
+  },
+  {
+    "title": "The New World",
+    "link": "https://starwars.fandom.com/wiki/The_New_World",
+    "description": "The Colossus arrives at a beautiful planet that Captain Doza hopes will be its new home. But the world's inhabitants may not be so welcoming...",
+    "episode": "15",
+    "date": "34 ABY",
+    "irl_date": "2020-01-12",
+    "season": 1
+  },
+  {
+    "title": "No Place Safe",
+    "link": "https://starwars.fandom.com/wiki/No_Place_Safe",
+    "description": "Kaz decides to fully join the Resistance and fight the First Order...but they may have found him first.",
+    "episode": "16",
+    "date": "34 ABY",
+    "irl_date": "2020-01-12",
+    "season": 1
+  },
+  {
+    "title": "Rebuilding the Resistance",
+    "link": "https://starwars.fandom.com/wiki/Rebuilding_the_Resistance",
+    "description": "Venisa Doza's fighter squadron and the Aces launch a dangerous mission to escort Resistance recruits to safety.",
+    "episode": "17",
+    "date": "34 ABY",
+    "irl_date": "2020-01-19",
+    "season": 1
+  },
+  {
+    "title": "The Escape",
+    "link": "https://starwars.fandom.com/wiki/The_Escape_%28episode%29",
+    "description": "Kaz and Yeager attempt to rescue Tam from the First Order while trying to evade capture on a Star Destroyer. Meanwhile, the Colossus is in trouble and faces an impossible choice.",
+    "episode": "18–19",
+    "date": "34 ABY",
+    "irl_date": "2020-01-26",
+    "season": 1
+  }
+]

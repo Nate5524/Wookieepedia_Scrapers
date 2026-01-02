@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Lost / Found",
+    "link": "https://starwars.fandom.com/wiki/Lost_/_Found",
+    "description": "The Jedi pursue a suspect after a shocking crime.",
+    "episode": "1",
+    "date": "132 BBY",
+    "irl_date": "2024-06-04",
+    "crawl": "A hundred years before the rise of the Empire, it is a time of peace. The Jedi Order and the Galactic Republic have prospered for centuries without war. But in the dark corners of the galaxy, a powerful few learn to use the Force in secret. One of them, a lone assassin, risks discovery to seek revenge…"
+  },
+  {
+    "title": "Revenge / Justice",
+    "link": "https://starwars.fandom.com/wiki/Revenge_/_Justice",
+    "description": "An assassin strikes again, but this time the Jedi are here to attempt a capture.",
+    "episode": "2",
+    "date": "132 BBY",
+    "irl_date": "2024-06-04"
+  },
+  {
+    "title": "Destiny (The Acolyte)",
+    "link": "https://starwars.fandom.com/wiki/Destiny_%28The_Acolyte%29",
+    "description": "On a mysterious planet, the tragic journey of two sisters begins.",
+    "episode": "3",
+    "date": "148 BBY",
+    "irl_date": "2024-06-11"
+  },
+  {
+    "title": "Day",
+    "link": "https://starwars.fandom.com/wiki/Day_%28episode%29",
+    "description": "Racing to the next target, the Jedi head to a new world as they close in on a clever assassin.",
+    "episode": "4",
+    "date": "132 BBY",
+    "irl_date": "2024-06-18"
+  },
+  {
+    "title": "Night",
+    "link": "https://starwars.fandom.com/wiki/Night",
+    "description": "In a dense jungle, the Jedi are put to the test when they confront a rising darkness.",
+    "episode": "5",
+    "date": "132 BBY",
+    "irl_date": "2024-06-25"
+  },
+  {
+    "title": "Teach / Corrupt",
+    "link": "https://starwars.fandom.com/wiki/Teach_/_Corrupt",
+    "description": "On a distant island, unsettling questions about identity and destiny arise.",
+    "episode": "6",
+    "date": "132 BBY",
+    "irl_date": "2024-07-02"
+  },
+  {
+    "title": "Choice",
+    "link": "https://starwars.fandom.com/wiki/Choice",
+    "description": "A bitter truth is revealed.",
+    "episode": "7",
+    "date": "148 BBY",
+    "irl_date": "2024-07-09"
+  },
+  {
+    "title": "The Acolyte",
+    "link": "https://starwars.fandom.com/wiki/The_Acolyte_%28episode%29",
+    "description": "Confrontation and revelation await.",
+    "episode": "8",
+    "date": "132 BBY",
+    "irl_date": "2024-07-16"
+  }
+]

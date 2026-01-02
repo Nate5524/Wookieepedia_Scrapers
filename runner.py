@@ -20,24 +20,27 @@ def parse_selected_options():
 
         print("Parsing Category:", opt["name"])
         # For each episode, log its details into the episodes array
-        bar = tqdm(titles, desc="Fetching episodes")
-        for title in bar:
-            if title is None or type(title) != str:
-                continue
-            bar.set_postfix_str(title + " " * (maxlen - len(title)))
-            try:
-                opt["scraper"](title, opt, episodes, skipped)
-            except Exception as e:
-                tqdm.write(f"ERROR - {title}: {e}")
-                skipped.append(title)
-    print(f"\n\nSucessfully parsed {len(episodes)} episodes!")
-    if len(skipped) > 0: print(f"Skipped {len(skipped)} episodes:")
-    for skip in skipped:
-        print(f"   - {skip}")
-        
-    # Save episodes array into local JSON
-    with open(opt["json"], "w", encoding="utf-8") as f:
-        json.dump(episodes, f, ensure_ascii=False, indent=2)
+        with tqdm(titles, desc="Fetching episodes", leave=False) as bar:
+            for title in bar:
+                if title is None or type(title) != str:
+                    continue
+                bar.set_postfix_str(title + " " * (maxlen - len(title)))
+                try:
+                    opt["scraper"](title, episodes, skipped)
+                except Exception as e:
+                    tqdm.write(f"  ERROR - {title}: {e}")
+                    skipped.append(title)
+                    
+        # Log final statistics
+        tqdm.write(f"  Sucessfully parsed {len(episodes)} episodes!")
+        if len(skipped) > 0:
+            tqdm.write(f"  Skipped {len(skipped)} episodes:")
+        for skip in skipped:
+            tqdm.write(f"    - {skip}")
+
+        # Save episodes array into local JSON
+        with open(f"./data/{opt['json']}", "w", encoding="utf-8") as f:
+            json.dump(episodes, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
